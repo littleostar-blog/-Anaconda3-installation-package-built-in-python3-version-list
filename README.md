@@ -54,9 +54,13 @@ miniconda3	python3
 
 ---
 
- - [anaconda archive](https://repo.continuum.io/archive/)
+- archive
+  - [anaconda](https://repo.continuum.io/archive/)
+  - [miniconda](https://repo.anaconda.com/miniconda/)
 
- - [miniconda archive](https://repo.anaconda.com/miniconda/)
+- download
+  - [anaconda](https://www.anaconda.com/download/)
+  - [miniconda](https://conda.io/miniconda.html)
 
 ---
 end
