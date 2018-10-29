@@ -1,12 +1,12 @@
 
-(C:\Users\D_Zet\Miniconda3) C:\Users\D_Zet>conda --version
+(C:\Users\UserXXX\Miniconda3) C:\Users\UserXXX>conda --version
 conda 4.2.12
 
-(C:\Users\D_Zet\Miniconda3) C:\Users\D_Zet>conda create -n tensorflow_gpuenv tensorflow-gpu
+(C:\Users\UserXXX\Miniconda3) C:\Users\UserXXX>conda create -n tensorflow_gpuenv tensorflow-gpu
 Fetching package metadata .........
 Solving package specifications: ..........
 
-Package plan for installation in environment C:\Users\D_Zet\Miniconda3\envs\tensorflow_gpuenv:
+Package plan for installation in environment C:\Users\UserXXX\Miniconda3\envs\tensorflow_gpuenv:
 
 The following packages will be downloaded:
 
